@@ -48,4 +48,6 @@ Feel free to reach out on [![LinkedIn](https://img.shields.io/badge/linkedin-%23
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 
-
+<a href="https://github.com/chanychi/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=downsauce&show_icons=true&count_private=true&theme=dracula" />
+</a>
